@@ -2,8 +2,6 @@
 
 Application interactive développée sous MATLAB App Designer qui simule le tableau de bord d'un véhicule alimenté en temps réel par des messages CAN (Controller Area Network).
 
-Projet académique réalisé dans le cadre du module Réseaux de Communication Temps-Réel à l'Efrei Paris (2025-2026).
-
 # Contexte
 
 Dans un véhicule moderne, les calculateurs électroniques (ECU) échangent en permanence des données sur un bus CAN : vitesse, régime moteur, température, niveau de carburant, etc. Le tableau de bord reçoit ces messages pour informer le conducteur et signaler les situations critiques (surchauffe, carburant bas, régime excessif).
